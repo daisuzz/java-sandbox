@@ -1,5 +1,12 @@
 package com.daisuzz;
 
-public record HelloWorld(String value) {
-    
+/*
+- private final
+- all args constructor
+- fluent getter
+- hashCode
+- equals
+- toString
+ */
+record HelloWorld(String value) {
 }
