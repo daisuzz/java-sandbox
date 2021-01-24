@@ -17,6 +17,7 @@
         <module>sample-record</module>
 
         <module>sample-sealed-class</module>
+        <module>sample-java-time</module>
 
     </modules>
 

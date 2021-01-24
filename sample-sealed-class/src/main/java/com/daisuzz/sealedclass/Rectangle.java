@@ -1,4 +1,4 @@
-package com.daisuzz;
+package com.daisuzz.sealedclass;
 
 public final class Rectangle implements Shape{
     @Override
